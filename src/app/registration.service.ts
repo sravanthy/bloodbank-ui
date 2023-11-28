@@ -6,7 +6,7 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { environment } from 'src/environments/environment';
 
 //const NAV_URL = environment.apiURL;
-const NAV_URL = "http://107.20.35.37:9090";//environment.apiURL;
+const NAV_URL = "http://54.242.130.105:9090";//environment.apiURL;
 @Injectable({
   providedIn: 'root'
 })

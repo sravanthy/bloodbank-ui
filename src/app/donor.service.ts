@@ -6,7 +6,7 @@ import { Donor } from './donor';
 import { Requesting } from './requesting';
 import { User } from './user';
 
-const NAV_URL = "http://107.20.35.37:9090";//environment.apiURL;
+const NAV_URL = "http://54.242.130.105:9090";//environment.apiURL;
 
 @Injectable({
   providedIn: 'root'
